@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Spotify](https://novatorem-one-bice.vercel.app/api/spotify)](https://open.spotify.com/user/31a2xzgzif2lqharuwfpw4dsxyn4)
+
+
+### My Stats
+
+[![Bodhisatta's github stats](https://github-readme-stats.vercel.app/api?username=gems2000)](https://github.com/anuraghazra/github-readme-stats)
