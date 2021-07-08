@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### My Stats
 
-[![Bodhisatta's github stats](https://github-readme-stats.vercel.app/api?username=gems2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Bodhisatta's github stats](https://github-readme-stats.vercel.app/api?username=gems2000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
