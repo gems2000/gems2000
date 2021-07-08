@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ### My Stats
 
 [![Bodhisatta's github stats](https://github-readme-stats.vercel.app/api?username=gems2000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Languages I use the most
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gems2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
