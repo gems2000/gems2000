@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### My Stats
 
-[![Bodhisatta's github stats](https://github-readme-stats.vercel.app/api?username=gems2000&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bodhisatta's github stats](https://github-readme-stats.vercel.app/api?username=gems2000&count_private=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages I use the most
