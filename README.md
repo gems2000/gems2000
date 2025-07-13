@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Spotify](https://novatorem-one-bice.vercel.app/api/spotify)](https://open.spotify.com/user/31kmmp2va5q7ta3reacsaobilphu)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kmmp2va5q7ta3reacsaobilphu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kmmp2va5q7ta3reacsaobilphu&redirect=true)
 
 
 ### My Stats
